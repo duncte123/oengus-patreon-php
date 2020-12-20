@@ -1,0 +1,6 @@
+storage/*.json
+.dockerignore
+.idea/
+.git/
+.gitattributes
+.gitignore
